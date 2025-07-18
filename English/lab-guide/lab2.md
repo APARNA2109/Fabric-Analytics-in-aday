@@ -270,8 +270,10 @@ By the end of this lab, you will have learned:
     e. **Learn About Retail Solutions:** Click on the "Learn more" button to read about retail solutions and understand how they can be used in your projects.
 
     f. **Deploy Retail Solutions:** Click on the "Deploy" button to start deploying retail solutions and implementing them in your projects.
+   
+    ![](../media/lab-02/INDUSTRIAL.png)
 
-3. Click on **Return to workloads** at the top left corner of the screen. This action will take you to the main workloads page, where you can explore other tools or sections.      
+4. Click on **Return to workloads** at the top left corner of the screen. This action will take you to the main workloads page, where you can explore other tools or sections.      
 
    ![](../media/lab-02/image22.png)
 
